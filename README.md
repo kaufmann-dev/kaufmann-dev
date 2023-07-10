@@ -4,30 +4,20 @@
 
 Welcome to my GitHub! I'm passionate about creating beautiful and functional software. Here are a few highlights of my work:
 
-### Projects
+### Main Projects
 
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)
-
+[![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
 ### Tech Stack
+- Languages: `#C#`, `#Java`, `#Rust`, `#PHP`, `#Python`, `#Bash`, `#JavaScript`, `#SQL`, `#MQL`, `#Cypher`, `#XSLT`
+- Web: `#React`, `#Svelte`, `#Laravel`,`#Blazor`, `#Inertia`, `#WordPress`,`#Strapi`, `#Bootstrap`, `#Tailwind`
+- Databases: `#MySQL`, `#MariaDB`, `#Redis`, `#MongoDB`, `#MS SQL`, `#Oracle RDBMS`, `#Neo4j`, `#PostgreSQL`
+- Cloud: `#Azure`, `#GCP`, `#AWS`, `#Linux`, `#OpenShift`, `#OKD`
+- Tools: `#Jira`, `#Confluence`, `#NPM`, `#Git`, `#Docker`, `#Photoshop`, `#Illustrator`, `#XD`
+- Others: `#Scrum`, `#Kanban`, `#CI/CD`, `#German (C2)`, `#English (C2)`
 
-#### Computersprachen
-C# · Java · Rust · PHP · Python · Bash · JavaScript · SQL · MQL · Cypher · XSLT
-
-#### Webentwicklung
-React · Svelte · Laravel · Blazor · Inertia · WordPress · Strapi · Bootstrap · Tailwind
-
-#### Datenbanken
-MySQL · MariaDB · Redis · MongoDB · MS SQL · Oracle RDBMS · Neo4j · PostgreSQL
-
-#### Cloud
-Azure · GCP · AWS · Linux · OpenShift · OKD
-
-#### Tools
-Jira · Confluence · NPM · Git · Docker · Photoshop · Illustrator · XD
-
-#### Sonstiges
-Scrum · Kanban · CI/CD · Deutsch (C2) · Englisch (C2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev&layout=compact&theme=dark)
 
 ### Get in Touch
 
