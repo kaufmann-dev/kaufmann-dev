@@ -11,29 +11,28 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 
 <div align="center">
 
-<div align="center">
+### Tech Stack
 
-# Tech Stack
-
-## Languages
+**Languages**
 C#, Java, Rust, PHP, Python, Bash, JavaScript, SQL, MQL, Cypher, XSLT
 
-## Web
+**Web**
 React, Svelte, Laravel, Blazor, Inertia, WordPress, Strapi, Bootstrap, Tailwind
 
-## Databases
+**Databases**
 MySQL, MariaDB, Redis, MongoDB, MS SQL, Oracle RDBMS, Neo4j, PostgreSQL
 
-## Cloud
+**Cloud**
 Azure, GCP, AWS, Linux, OpenShift, OKD
 
-## Tools
+**Tools**
 Jira, Confluence, NPM, Git, Docker, Photoshop, Illustrator, XD
 
-## Others
+**Others**
 Scrum, Kanban, CI/CD, German (C2), English (C2)
 
 </div>
+
 
 
 
