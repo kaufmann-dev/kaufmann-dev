@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi there, I'm David Kaufmann <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -49,4 +49,4 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 Feel free to explore my projects, and don't hesitate to reach out for collaboration or just to say hi! 😊
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
+
