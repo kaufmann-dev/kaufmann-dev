@@ -17,22 +17,22 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 <div align="center">
   
 ###### Languages
-`C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`<br>
+`C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`<br><br>
 
 ###### Web
 `React` · `Svelte` · `Laravel` · `Blazor` · `Inertia` · `WordPress` · `Strapi` · `Bootstrap` · `Tailwind`<br><br>
 
 ###### Databases
-`MySQL` · `MariaDB` · `Redis` · `MongoDB` · `MS SQL` · `Oracle RDBMS` · `Neo4j` · `PostgreSQL`
+`MySQL` · `MariaDB` · `Redis` · `MongoDB` · `MS SQL` · `Oracle RDBMS` · `Neo4j` · `PostgreSQL`<br><br>
 
 ###### Cloud
-`Azure` · `GCP` · `AWS` · `Linux` · `OpenShift` · `OKD`
+`Azure` · `GCP` · `AWS` · `Linux` · `OpenShift` · `OKD`<br><br>
 
 ###### Tools
-`Jira` · `Confluence` · `NPM` · `Git` · `Docker` · `Photoshop` · `Illustrator` · `XD`
+`Jira` · `Confluence` · `NPM` · `Git` · `Docker` · `Photoshop` · `Illustrator` · `XD`<br><br>
 
 ###### Others
-`Scrum` · `Kanban` · `CI/CD` · `German (C2)` · `English (C2)`
+`Scrum` · `Kanban` · `CI/CD` · `German (C2)` · `English (C2)`<br><br>
 </div>
 
 
