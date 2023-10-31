@@ -17,13 +17,13 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 <div align="center">
   
 ###### Languages
-`C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`<br><br>
+`C#`  `Java`  `Rust`  `PHP`  `Python`  `Bash`  `JavaScript`  `SQL`  `MQL`  `Cypher`  `XSLT`<br><br>
 
 ###### Web
-`React` · `Svelte` · `Laravel` · `Blazor` · `Inertia` · `WordPress` · `Strapi` · `Bootstrap` · `Tailwind`<br><br>
+`React``Svelte``Laravel``Blazor``Inertia``WordPress``Strapi``Bootstrap``Tailwind`<br><br>
 
 ###### Databases
-`MySQL` · `MariaDB` · `Redis` · `MongoDB` · `MS SQL` · `Oracle RDBMS` · `Neo4j` · `PostgreSQL`<br><br>
+`MySQL` `MariaDB` · `Redis` `MongoDB` `MS SQL` `Oracle RDBMS` `Neo4j` `PostgreSQL`<br><br>
 
 ###### Cloud
 `Azure` · `GCP` · `AWS` · `Linux` · `OpenShift` · `OKD`<br><br>
