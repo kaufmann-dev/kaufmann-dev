@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 <div align="center">
   
 ###### Languages
-`C#`  `Java`  `Rust`  `PHP`  `Python`  `Bash`  `JavaScript`  `SQL`  `MQL`  `Cypher`  `XSLT`<br><br>
+`C#` &nbsp;&nbsp;&nbsp; `Java`  &nbsp;&nbsp;&nbsp;`Rust`&nbsp;&nbsp;&nbsp;  `PHP` &nbsp;&nbsp;&nbsp; `Python` &nbsp;&nbsp;&nbsp; `Bash` &nbsp;&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;&nbsp; `SQL`  `MQL` &nbsp;&nbsp;&nbsp; `Cypher` &nbsp;&nbsp;&nbsp; `XSLT`<br><br>
 
 ###### Web
 `React``Svelte``Laravel``Blazor``Inertia``WordPress``Strapi``Bootstrap``Tailwind`<br><br>
