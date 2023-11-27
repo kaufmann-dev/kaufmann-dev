@@ -14,7 +14,7 @@
 ## Tech Stack
 
   
-###### Languages
+<span>Languages</span><br>
 `C#`&nbsp;&nbsp;`Java`&nbsp;&nbsp;`Rust`&nbsp;&nbsp;`PHP`&nbsp;&nbsp;`Python`&nbsp;&nbsp;`Bash`&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;`SQL`&nbsp;&nbsp;`MQL`&nbsp;&nbsp;`Cypher`&nbsp;&nbsp;`XSLT`<br><br>
 
 ###### Web
