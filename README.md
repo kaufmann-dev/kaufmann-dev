@@ -6,7 +6,7 @@
 
 ## Main Projects
 
-[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)<br>
+[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)<br><br>
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
 
@@ -14,7 +14,7 @@
 ## Tech Stack
 
   
-<span>Languages</span><br>
+###### Languages
 `C#`&nbsp;&nbsp;`Java`&nbsp;&nbsp;`Rust`&nbsp;&nbsp;`PHP`&nbsp;&nbsp;`Python`&nbsp;&nbsp;`Bash`&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;`SQL`&nbsp;&nbsp;`MQL`&nbsp;&nbsp;`Cypher`&nbsp;&nbsp;`XSLT`<br><br>
 
 ###### Web
