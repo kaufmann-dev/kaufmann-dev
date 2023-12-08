@@ -6,12 +6,12 @@
 <br><br>
 ## COOL PROJECTS
 
-[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)<br><br>
+[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
 <br><br>
 
-## `TECH STACK`
+## TECH STACK
 
   
 ###### Languages
