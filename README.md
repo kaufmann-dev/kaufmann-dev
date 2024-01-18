@@ -3,7 +3,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="[https://alsiam.com](https://david.kaufmann.dev/)">David Kaufmann</a></b>
+                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b>
         </samp>
 </h3>
 
