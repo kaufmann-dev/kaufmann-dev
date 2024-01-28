@@ -26,3 +26,5 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-kaufmann-dev)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaboration or just to say hi! 😊
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
