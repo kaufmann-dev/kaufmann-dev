@@ -6,7 +6,7 @@
 
 <h3>
         <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b>
         </samp>
 </h3>
 
