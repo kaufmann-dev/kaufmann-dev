@@ -14,22 +14,22 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 ## Tech Stack
 
 **Languages**<br>
-C#, Java, Rust, PHP, Python, Bash, JavaScript, SQL, MQL, Cypher, XSLT
+`C#`, `Java`, `Rust`, `PHP`, `Python`, `Bash`, `JavaScript`, `SQL`, `MQL`, `Cypher`, `XSLT`
 
 **Web**<br>
-React, Svelte, Laravel, Blazor, Inertia, WordPress, Strapi, Bootstrap, Tailwind
+`React`, `Svelte`, `Laravel`, `Blazor`, `Inertia`, `WordPress`, `Strapi`, `Bootstrap`, `Tailwind`
 
 **Databases**<br>
-MySQL, MariaDB, Redis, MongoDB, MS SQL, Oracle RDBMS, Neo4j, PostgreSQL
+`MySQL`, `MariaDB`, `Redis`, `MongoDB`, `MS SQL`, `Oracle RDBMS`, `Neo4j`, `PostgreSQL`
 
 **Cloud**<br>
-Azure, GCP, AWS, Linux, OpenShift, OKD
+`Azure`, `GCP`, `AWS`, `Linux`, `OpenShift`, `OKD`
 
 **Tools**<br>
-Jira, Confluence, NPM, Git, Docker, Photoshop, Illustrator, XD
+`Jira`, `Confluence`, `NPM`, `Git`, `Docker`, `Photoshop`, `Illustrator`, `XD`
 
 **Others**<br>
-Scrum, Kanban, CI/CD, German (C2), English (C2)
+`Scrum`, `Kanban`, `CI/CD`, `German (C2)`, `English (C2)`
 
 </div>
 
