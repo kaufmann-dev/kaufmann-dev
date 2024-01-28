@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 
 <div align="center">
 
-### Tech Stack
+## Tech Stack
 
 **Languages**<br>
 C#, Java, Rust, PHP, Python, Bash, JavaScript, SQL, MQL, Cypher, XSLT
