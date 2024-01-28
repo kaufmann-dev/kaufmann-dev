@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 ## Tech Stack
 <div align="center">
   
-#### Languages
+Languages<br>
 `C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`
 
 #### Web
