@@ -48,8 +48,8 @@
 ###### Tools
 `Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`<br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ###### Others
 `Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
