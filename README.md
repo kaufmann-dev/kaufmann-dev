@@ -12,8 +12,8 @@
 
 <br>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>-->
 
 
 <br>
@@ -26,8 +26,8 @@
 </h3>
 <br>
 
-[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&card_width=50)](https://github.com/kaufmann-dev/PurusCss)<br>
-[![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula)](https://github.com/kaufmann-dev/JungInKrems)
+[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss)<br>
+[![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems)
 <br><br>
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
