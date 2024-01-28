@@ -15,21 +15,21 @@
 
   
 ###### Languages
-`C#`&nbsp;&nbsp;`Java`&nbsp;&nbsp;`Rust`&nbsp;&nbsp;`PHP`&nbsp;&nbsp;`Python`&nbsp;&nbsp;`Bash`&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;`SQL`&nbsp;&nbsp;`MQL`&nbsp;&nbsp;`Cypher`&nbsp;&nbsp;`XSLT`<br><br>
+`C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`<br><br>
 
 ###### Web
-`React`&nbsp;&nbsp;`Svelte`&nbsp;&nbsp;`Laravel`&nbsp;&nbsp;`Blazor`&nbsp;&nbsp;`Inertia`&nbsp;&nbsp;`WordPress`&nbsp;&nbsp;`Strapi`&nbsp;&nbsp;`Bootstrap`&nbsp;&nbsp;`Tailwind`<br><br>
+`React` `Svelte` `Laravel` `Blazor` `Inertia` `WordPress` `Strapi` `Bootstrap` `Tailwind`<br><br>
 
 ###### Databases
-`MySQL`&nbsp;&nbsp;`MariaDB`&nbsp;&nbsp;`Redis`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`MSSQL`&nbsp;&nbsp;`OracleRDBMS`&nbsp;&nbsp;`Neo4j`&nbsp;&nbsp;`PostgreSQL`<br><br>
+`MySQL` `MariaDB` `Redis` `MongoDB` `MSSQL` `OracleRDBMS` `Neo4j` `PostgreSQL`<br><br>
 
 ###### Cloud
-`Azure`&nbsp;&nbsp;`GCP`&nbsp;&nbsp;`AWS`&nbsp;&nbsp;`Linux`&nbsp;&nbsp;`OpenShift`&nbsp;&nbsp;`OKD`<br><br>
+`Azure` `GCP` `AWS` `Linux` `OpenShift` `OKD`<br><br>
 
 ###### Tools
-`Jira`&nbsp;&nbsp;`Confluence`&nbsp;&nbsp;`NPM`&nbsp;&nbsp;`Git`&nbsp;&nbsp;`Docker`&nbsp;&nbsp;`Photoshop`&nbsp;&nbsp;`Illustrator`&nbsp;&nbsp;`XD`<br><br>
+`Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`<br><br>
 
 ###### Others
-`Scrum`&nbsp;&nbsp;`Kanban`&nbsp;&nbsp;`CI/CD`&nbsp;&nbsp;`German(C2)`&nbsp;&nbsp;`English(C2)`<br><br>
+`Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`<br><br>
 </div>
 
