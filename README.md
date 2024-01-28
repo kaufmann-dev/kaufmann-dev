@@ -16,17 +16,23 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 ## Tech Stack
 <div align="center">
   
-**Languages**<br>
-`C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`<br>
-**Web**<br>
-`React` · `Svelte` · `Laravel` · `Blazor` · `Inertia` · `WordPress` · `Strapi` · `Bootstrap` · `Tailwind`<br>
-**Databases**<br>
-  `MySQL` · `MariaDB` · `Redis` · `MongoDB` · `MS SQL` · `Oracle RDBMS` · `Neo4j` · `PostgreSQL`<br>
-**Cloud**<br>
-  `Azure` · `GCP` · `AWS` · `Linux` · `OpenShift` · `OKD`<br>
-**Tools**<br>
-  `Jira` · `Confluence` · `NPM` · `Git` · `Docker` · `Photoshop` · `Illustrator` · `XD`<br>
-**Others**<br>`Scrum` · `Kanban` · `CI/CD` · `German (C2)` · `English (C2)`<br>
+#### Languages
+`C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`
+
+#### Web
+`React` · `Svelte` · `Laravel` · `Blazor` · `Inertia` · `WordPress` · `Strapi` · `Bootstrap` · `Tailwind`
+
+#### Databases
+`MySQL` · `MariaDB` · `Redis` · `MongoDB` · `MS SQL` · `Oracle RDBMS` · `Neo4j` · `PostgreSQL`
+
+#### Cloud
+`Azure` · `GCP` · `AWS` · `Linux` · `OpenShift` · `OKD`
+
+#### Tools
+`Jira` · `Confluence` · `NPM` · `Git` · `Docker` · `Photoshop` · `Illustrator` · `XD`
+
+#### Others
+`Scrum` · `Kanban` · `CI/CD` · `German (C2)` · `English (C2)`
 </div>
 
 
