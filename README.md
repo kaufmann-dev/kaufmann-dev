@@ -10,7 +10,9 @@
         </samp>
 </h3>
 
-[![LinkedIn](https://badgen.net/badge/icon/telegram?icon=telegram&label](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://www.linkedin.com/in/kaufmann-dev/)
+[![LinkedIn](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://www.linkedin.com/in/kaufmann-dev/)
+
+[![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/+lCPxL7Kd7gVjMGM6)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
