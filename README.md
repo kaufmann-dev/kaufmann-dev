@@ -3,13 +3,13 @@
 # DAVID KAUFMANN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br><br>
+<br>
 ## COOL PROJECTS
 
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)<br>
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
-<br><br>
+<br>
 
 ## TECH STACK
 
