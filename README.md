@@ -1,19 +1,20 @@
-# Hi there, I'm David Kaufmann 👋
+<div align="center">
+# Hi there, I'm Jean-Yves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Designer and Developer 💻🎨
 
 Welcome to my GitHub! I'm passionate about creating beautiful and functional software. Here are a few highlights of my work:
 
-### Main Projects
+## Main Projects
 
-[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)
+[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)<br>
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
-<div align="center">
+
 
 ## Tech Stack
 
-#### <span style="color:red">Languages</span><br>
+**Languages**<br>
 `C#`, `Java`, `Rust`, `PHP`, `Python`, `Bash`, `JavaScript`, `SQL`, `MQL`, `Cypher`, `XSLT`
 
 **Web**<br>
@@ -31,7 +32,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 **Others**<br>
 `Scrum`, `Kanban`, `CI/CD`, `German (C2)`, `English (C2)`
 
-</div>
+
 
 
 
@@ -47,3 +48,4 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 Feel free to explore my projects, and don't hesitate to reach out for collaboration or just to say hi! 😊
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
