@@ -9,13 +9,30 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
+<center>
+
 ### Tech Stack
-- Languages: `#C#`, `#Java`, `#Rust`, `#PHP`, `#Python`, `#Bash`, `#JavaScript`, `#SQL`, `#MQL`, `#Cypher`, `#XSLT`
-- Web: `#React`, `#Svelte`, `#Laravel`,`#Blazor`, `#Inertia`, `#WordPress`,`#Strapi`, `#Bootstrap`, `#Tailwind`
-- Databases: `#MySQL`, `#MariaDB`, `#Redis`, `#MongoDB`, `#MS SQL`, `#Oracle RDBMS`, `#Neo4j`, `#PostgreSQL`
-- Cloud: `#Azure`, `#GCP`, `#AWS`, `#Linux`, `#OpenShift`, `#OKD`
-- Tools: `#Jira`, `#Confluence`, `#NPM`, `#Git`, `#Docker`, `#Photoshop`, `#Illustrator`, `#XD`
-- Others: `#Scrum`, `#Kanban`, `#CI/CD`, `#German (C2)`, `#English (C2)`
+
+#### Languages
+- C#, Java, Rust, PHP, Python, Bash, JavaScript, SQL, MQL, Cypher, XSLT
+
+#### Web
+- React, Svelte, Laravel, Blazor, Inertia, WordPress, Strapi, Bootstrap, Tailwind
+
+#### Databases
+- MySQL, MariaDB, Redis, MongoDB, MS SQL, Oracle RDBMS, Neo4j, PostgreSQL
+
+#### Cloud
+- Azure, GCP, AWS, Linux, OpenShift, OKD
+
+#### Tools
+- Jira, Confluence, NPM, Git, Docker, Photoshop, Illustrator, XD
+
+#### Others
+- Scrum, Kanban, CI/CD, German (C2), English (C2)
+
+</center>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev&layout=compact&theme=dark)
 
