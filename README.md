@@ -17,22 +17,22 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 <div align="center">
   
 ###### Languages
-`C#` &nbsp;&nbsp;&nbsp; `Java`  &nbsp;&nbsp;&nbsp;`Rust`&nbsp;&nbsp;&nbsp;  `PHP` &nbsp;&nbsp;&nbsp; `Python` &nbsp;&nbsp;&nbsp; `Bash` &nbsp;&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;&nbsp; `SQL`  `MQL` &nbsp;&nbsp;&nbsp; `Cypher` &nbsp;&nbsp;&nbsp; `XSLT`<br><br>
+`C#`&nbsp;&nbsp;`Java`&nbsp;&nbsp;`Rust`&nbsp;&nbsp;`PHP`&nbsp;&nbsp;`Python`&nbsp;&nbsp;`Bash`&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;`SQL`&nbsp;&nbsp;`MQL`&nbsp;&nbsp;`Cypher`&nbsp;&nbsp;`XSLT`<br><br>
 
 ###### Web
-`React``Svelte``Laravel``Blazor``Inertia``WordPress``Strapi``Bootstrap``Tailwind`<br><br>
+`React`&nbsp;&nbsp;`Svelte`&nbsp;&nbsp;`Laravel`&nbsp;&nbsp;`Blazor`&nbsp;&nbsp;`Inertia`&nbsp;&nbsp;`WordPress`&nbsp;&nbsp;`Strapi`&nbsp;&nbsp;`Bootstrap`&nbsp;&nbsp;`Tailwind`<br><br>
 
 ###### Databases
-`MySQL` `MariaDB` · `Redis` `MongoDB` `MS SQL` `Oracle RDBMS` `Neo4j` `PostgreSQL`<br><br>
+`MySQL`&nbsp;&nbsp;`MariaDB`&nbsp;&nbsp;`Redis`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`MSSQL`&nbsp;&nbsp;`OracleRDBMS`&nbsp;&nbsp;`Neo4j`&nbsp;&nbsp;`PostgreSQL`<br><br>
 
 ###### Cloud
-`Azure` · `GCP` · `AWS` · `Linux` · `OpenShift` · `OKD`<br><br>
+`Azure`&nbsp;&nbsp;`GCP`&nbsp;&nbsp;`AWS`&nbsp;&nbsp;`Linux`&nbsp;&nbsp;`OpenShift`&nbsp;&nbsp;`OKD`<br><br>
 
 ###### Tools
-`Jira` · `Confluence` · `NPM` · `Git` · `Docker` · `Photoshop` · `Illustrator` · `XD`<br><br>
+`Jira`&nbsp;&nbsp;`Confluence`&nbsp;&nbsp;`NPM`&nbsp;&nbsp;`Git`&nbsp;&nbsp;`Docker`&nbsp;&nbsp;`Photoshop`&nbsp;&nbsp;`Illustrator`&nbsp;&nbsp;`XD`<br><br>
 
 ###### Others
-`Scrum` · `Kanban` · `CI/CD` · `German (C2)` · `English (C2)`<br><br>
+`Scrum`&nbsp;&nbsp;`Kanban`&nbsp;&nbsp;`CI/CD`&nbsp;&nbsp;`German(C2)`&nbsp;&nbsp;`English(C2)`<br><br>
 </div>
 
 
