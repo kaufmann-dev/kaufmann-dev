@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dark)](https://github.com/kaufmann-dev/JungInKrems)
 
-<center>
+<div align="center">
 
 ### Tech Stack
 
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 #### Others
 - Scrum, Kanban, CI/CD, German (C2), English (C2)
 
-</center>
+</div>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev&layout=compact&theme=dark)
