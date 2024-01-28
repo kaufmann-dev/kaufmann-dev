@@ -15,7 +15,7 @@
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>-->
 
 
-<br>
+
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
 <hr>
 
