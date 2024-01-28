@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://github.com/kaufmann-dev/PurusCss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula" alt="Purus CSS" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula" alt="Purus CSS" />
 </a>
 
 
