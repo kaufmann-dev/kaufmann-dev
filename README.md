@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula)](https://git.io/streak-stats)
 
-<br><br>
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">
