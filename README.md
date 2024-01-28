@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 Languages<br>
 `C#` · `Java` · `Rust` · `PHP` · `Python` · `Bash` · `JavaScript` · `SQL` · `MQL` · `Cypher` · `XSLT`
 
-#### Web
+##### Web
 `React` · `Svelte` · `Laravel` · `Blazor` · `Inertia` · `WordPress` · `Strapi` · `Bootstrap` · `Tailwind`
 
 #### Databases
