@@ -11,7 +11,7 @@
 
 <br><br>
 
-## TECH STACK
+## `TECH STACK`
 
   
 ###### Languages
