@@ -13,7 +13,7 @@
 <br>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats"><img style="width: 77%;" src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="77%" src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>
 
 
 <br>
