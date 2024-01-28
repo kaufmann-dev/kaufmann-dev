@@ -6,13 +6,8 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 
 ### Projects
 
-- **Jung in Krems**
-  - Description: [Brief description of the project]
-  - [Jung in Krems Repository](#)
+[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dark)](https://github.com/kaufmann-dev/PurusCss)
 
-- **PurusCSS**
-  - Description: [Brief description of the project]
-  - [PurusCSS Repository](#)
 
 ### Tech Stack
 
