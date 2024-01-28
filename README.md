@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+<hr>
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
 
 
@@ -16,7 +17,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula)](https://git.io/streak-stats)
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+<hr>
 
 <h3 align="center">
         <samp>&gt; Favorite Projects
@@ -54,5 +56,6 @@
 ###### Others
 `Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`<br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+<hr>
 </div>
