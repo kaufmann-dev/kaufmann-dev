@@ -9,7 +9,7 @@
         </samp>
 </h3>
 
-<br>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>-->
