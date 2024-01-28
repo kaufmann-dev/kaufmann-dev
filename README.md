@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there, I'm David Kaufmann 👋
 
-<!--
-**kaufmann-dev/kaufmann-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Designer and Developer 💻🎨
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about creating beautiful and functional software. Here are a few highlights of my work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **Jung in Krems**
+  - Description: [Brief description of the project]
+  - [Jung in Krems Repository](#)
+
+- **PurusCSS**
+  - Description: [Brief description of the project]
+  - [PurusCSS Repository](#)
+
+### Tech Stack
+
+#### Computersprachen
+C# · Java · Rust · PHP · Python · Bash · JavaScript · SQL · MQL · Cypher · XSLT
+
+#### Webentwicklung
+React · Svelte · Laravel · Blazor · Inertia · WordPress · Strapi · Bootstrap · Tailwind
+
+#### Datenbanken
+MySQL · MariaDB · Redis · MongoDB · MS SQL · Oracle RDBMS · Neo4j · PostgreSQL
+
+#### Cloud
+Azure · GCP · AWS · Linux · OpenShift · OKD
+
+#### Tools
+Jira · Confluence · NPM · Git · Docker · Photoshop · Illustrator · XD
+
+#### Sonstiges
+Scrum · Kanban · CI/CD · Deutsch (C2) · Englisch (C2)
+
+### Get in Touch
+
+- 📧 Email: [david@kaufmann.dev](mailto:david@kaufmann.dev)
+- 🌐 [Personal Homepage](https://david.kaufman.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-kaufmann-dev)
+
+Feel free to explore my projects, and don't hesitate to reach out for collaboration or just to say hi! 😊
