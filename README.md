@@ -11,27 +11,30 @@ Welcome to my GitHub! I'm passionate about creating beautiful and functional sof
 
 <div align="center">
 
-### Tech Stack
+<div align="center">
 
-#### Languages
-- C#, Java, Rust, PHP, Python, Bash, JavaScript, SQL, MQL, Cypher, XSLT
+# Tech Stack
 
-#### Web
-- React, Svelte, Laravel, Blazor, Inertia, WordPress, Strapi, Bootstrap, Tailwind
+## Languages
+C#, Java, Rust, PHP, Python, Bash, JavaScript, SQL, MQL, Cypher, XSLT
 
-#### Databases
-- MySQL, MariaDB, Redis, MongoDB, MS SQL, Oracle RDBMS, Neo4j, PostgreSQL
+## Web
+React, Svelte, Laravel, Blazor, Inertia, WordPress, Strapi, Bootstrap, Tailwind
 
-#### Cloud
-- Azure, GCP, AWS, Linux, OpenShift, OKD
+## Databases
+MySQL, MariaDB, Redis, MongoDB, MS SQL, Oracle RDBMS, Neo4j, PostgreSQL
 
-#### Tools
-- Jira, Confluence, NPM, Git, Docker, Photoshop, Illustrator, XD
+## Cloud
+Azure, GCP, AWS, Linux, OpenShift, OKD
 
-#### Others
-- Scrum, Kanban, CI/CD, German (C2), English (C2)
+## Tools
+Jira, Confluence, NPM, Git, Docker, Photoshop, Illustrator, XD
+
+## Others
+Scrum, Kanban, CI/CD, German (C2), English (C2)
 
 </div>
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev&layout=compact&theme=dark)
