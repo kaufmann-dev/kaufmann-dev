@@ -38,22 +38,22 @@
 
   
 ###### Languages
-`C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`<br>
+`C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`
 
 ###### Web
 `React` `Svelte` `Laravel` `Blazor` `Inertia` `WordPress` `Strapi` `Bootstrap` `Tailwind`
 
 ###### Databases
-`MySQL` `MariaDB` `Redis` `MongoDB` `MSSQL` `OracleRDBMS` `Neo4j` `PostgreSQL`<br><br>
+`MySQL` `MariaDB` `Redis` `MongoDB` `MSSQL` `OracleRDBMS` `Neo4j` `PostgreSQL`
 
 ###### Cloud
-`Azure` `GCP` `AWS` `Linux` `OpenShift` `OKD`<br><br>
+`Azure` `GCP` `AWS` `Linux` `OpenShift` `OKD`
 
 ###### Tools
-`Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`<br><br>
+`Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`
 
 ###### Others
-`Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`<br><br>
+`Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <hr>-->
