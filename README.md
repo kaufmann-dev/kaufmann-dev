@@ -2,11 +2,11 @@
 
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">-->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
 
 <h3>
         <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b>
+                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
         </samp>
 </h3>
 
