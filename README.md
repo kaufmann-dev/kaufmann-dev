@@ -9,10 +9,10 @@
 
 ### <samp>&gt; Favorite Projects</samp>
 
-[![Purus CSS-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=catppuccin_latte&hide_border=false)](https://github.com/kaufmann-dev/PurusCss#gh-light-mode-only)
+[![Purus CSS-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=swift&hide_border=false)](https://github.com/kaufmann-dev/PurusCss#gh-light-mode-only)
 [![Purus CSS-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss#gh-dark-mode-only)
 
-[![Jung in Krems-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=catppuccin_latte&hide_border=false)](https://github.com/kaufmann-dev/JungInKrems#gh-light-mode-only)
+[![Jung in Krems-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=graywhite&hide_border=false)](https://github.com/kaufmann-dev/JungInKrems#gh-light-mode-only)
 [![Jung in Krems-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems#gh-dark-mode-only)
 
 <hr>
