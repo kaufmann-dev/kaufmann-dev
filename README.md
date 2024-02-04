@@ -15,6 +15,12 @@
 [![Jung in Krems-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=swift&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems#gh-light-mode-only)
 [![Jung in Krems-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems#gh-dark-mode-only)
 
+[![Bash Scripts-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=BashScripts&theme=swift&hide_border=true)](https://github.com/kaufmann-dev/BashScripts#gh-light-mode-only)
+[![Bash Scripts-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=BashScripts&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/BashScripts#gh-dark-mode-only)
+
+[![MoviesAsync-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=MoviesAsync&theme=swift&hide_border=true)](https://github.com/kaufmann-dev/MoviesAsync#gh-light-mode-only)
+[![MoviesAsync-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=MoviesAsync&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/MoviesAsync#gh-dark-mode-only)
+
 <hr>
 
 ### <samp>&gt; Skills</samp>
