@@ -26,7 +26,7 @@
 
   
 ###### Languages
-`[(https://skillicons.dev/icons?i=java&theme=light)(https://skillicons.dev)] C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`<br><br>
+`C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`<br><br>
 
 ###### Web
 `React` `Svelte` `Laravel` `Blazor` `Inertia` `WordPress` `Strapi` `Bootstrap` `Tailwind`<br><br>
