@@ -49,6 +49,3 @@
 ###### Others
 `Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`<br><br>
 </div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
