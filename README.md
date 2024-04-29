@@ -9,6 +9,7 @@
                 <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b>
         </samp>
 </h3>
+
 [![LinkedIn]([https://badgen.net/badge/icon/telegram?icon=telegram&label](https://badgen.net/badge/icon/linkedin?icon=linkedin&label))]([https://t.me/+lCPxL7Kd7gVjMGM6](https://www.linkedin.com/in/kaufmann-dev/))
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
