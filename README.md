@@ -28,7 +28,8 @@
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula)](https://github.com/kaufmann-dev/JungInKrems)
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+<hr>
 <h3 align="center">
         <samp>&gt; Tech Stack
         </samp>
