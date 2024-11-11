@@ -30,6 +30,20 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula" alt="Purus CSS" />
 </a>
 
+<a href="https://github.com/kaufmann-dev/PurusCss" style="display: block; width: 50%; margin: 0 auto;">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula" alt="Purus CSS" />
+
+  <!-- Responsive styles for mobile -->
+  <style>
+    @media (max-width: 767px) {
+      a {
+        width: 100%;
+      }
+    }
+  </style>
+</a>
+
 
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&card_width=50)](https://github.com/kaufmann-dev/PurusCss)<br>
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula)](https://github.com/kaufmann-dev/JungInKrems)
