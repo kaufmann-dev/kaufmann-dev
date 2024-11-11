@@ -1,7 +1,7 @@
 <div align="center">
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">-->
 
 
 <h3 align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats"><img width="50%" src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula" alt="GitHub Streak" /></a>
 
 
 <br>
@@ -25,25 +25,6 @@
         </samp>
 </h3>
 <br>
-
-<a href="https://github.com/kaufmann-dev/PurusCss">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula" alt="Purus CSS" />
-</a>
-
-<a href="https://github.com/kaufmann-dev/PurusCss" style="display: block; width: 50%; margin: 0 auto;">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula" alt="Purus CSS" />
-
-  <!-- Responsive styles for mobile -->
-  <style>
-    @media (max-width: 767px) {
-      a {
-        width: 100%;
-      }
-    }
-  </style>
-</a>
-
 
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&card_width=50)](https://github.com/kaufmann-dev/PurusCss)<br>
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula)](https://github.com/kaufmann-dev/JungInKrems)
