@@ -23,11 +23,11 @@
         <samp>&gt; Favorite Projects
         </samp>
 </h3>
-<br>
+
 
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss)<br>
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems)
-<br><br>
+
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
 <hr>
