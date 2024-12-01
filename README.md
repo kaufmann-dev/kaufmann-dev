@@ -38,10 +38,10 @@
 
   
 ###### Languages
-`C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`<br><br>
+`C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`<br>
 
 ###### Web
-`React` `Svelte` `Laravel` `Blazor` `Inertia` `WordPress` `Strapi` `Bootstrap` `Tailwind`<br><br>
+`React` `Svelte` `Laravel` `Blazor` `Inertia` `WordPress` `Strapi` `Bootstrap` `Tailwind`
 
 ###### Databases
 `MySQL` `MariaDB` `Redis` `MongoDB` `MSSQL` `OracleRDBMS` `Neo4j` `PostgreSQL`<br><br>
