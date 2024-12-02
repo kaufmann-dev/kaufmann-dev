@@ -53,7 +53,7 @@
 `Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`
 
 ###### Others
-`Scrum` `Kanban` `CI/CD` `German(C2)` `English(C2)`
+`Scrum` `Kanban` `CI/CD` `German (C2)` `English (C2)`
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <hr>-->
