@@ -6,7 +6,7 @@
 
 <h3>
         <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b>
+                <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b>!
         </samp>
 </h3>
 
