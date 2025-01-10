@@ -7,6 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 <hr>
+
 ### <samp>&gt; Favorite Projects</samp>
 <h3>
         <samp>&gt; Favorite Projects
