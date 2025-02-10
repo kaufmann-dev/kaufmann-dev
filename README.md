@@ -9,6 +9,7 @@
 ### <samp>&gt; Favorite Projects</samp>
 
 [![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss)
+
 [![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems)
 
 <hr>
