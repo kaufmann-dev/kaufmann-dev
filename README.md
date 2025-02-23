@@ -14,12 +14,12 @@
 
 <hr>
 
-### <samp>&gt; Tech Stack</samp>
+### <samp>&gt; Skills</samp>
 
-###### Languages
+###### Computer Languages
 `C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`
 
-###### Web
+###### Web Development
 `React` `Svelte` `Laravel` `Blazor` `Inertia` `WordPress` `Strapi` `Bootstrap` `Tailwind`
 
 ###### Databases
@@ -31,7 +31,7 @@
 ###### Tools
 `Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`
 
-###### Others
+###### Miscellaneous
 `Scrum` `Kanban` `CI/CD` `German (C2)` `English (C2)`
 
 </div>
