@@ -2,15 +2,18 @@
         
 ###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b></samp>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak-Light](https://streak-stats.demolab.com?user=kaufmann-dev&theme=buefy&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak-Light](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
 
 <hr>
 
 ### <samp>&gt; Favorite Projects</samp>
 
-[![Purus CSS](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss)
+[![Purus CSS-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=buefy&hide_border=true)](https://github.com/kaufmann-dev/PurusCss#gh-light-mode-only)
+[![Purus CSS-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss#gh-dark-mode-only)
 
-[![Jung in Krems](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems)
+[![Jung in Krems-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=buefy&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems#gh-light-mode-only)
+[![Jung in Krems-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=JungInKrems&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/JungInKrems#gh-dark-mode-only)
 
 <hr>
 
