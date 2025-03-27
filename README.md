@@ -1,6 +1,6 @@
 <div align="center">
         
-###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://david.kaufmann.dev/">David Kaufmann</a></b></samp>
+###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://kaufmann.dev/">David Kaufmann</a></b></samp>
 
 [![GitHub Streak-Light](https://streak-stats.demolab.com?user=kaufmann-dev&theme=swift&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak-Light](https://streak-stats.demolab.com?user=kaufmann-dev&theme=dracula&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
