@@ -41,8 +41,8 @@
 
 ### <samp>&gt; Repository Explanation</samp>
 ###### My school repositories have a prefix:
-`Y[YEAR]-[SUBJECT]`
-<br>
+<p style="margin-bottom: 10px;">`Y[YEAR]-[SUBJECT]`</p>
+
 | Abbreviation | Definition |
 | :-------- | :------- |
 | Y1 | 1st year of school |
