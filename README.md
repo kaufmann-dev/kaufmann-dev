@@ -7,8 +7,8 @@
 
 
 
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&layout=compact\&theme=swift\&langs_count=8\&hide_border=true)
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&layout=compact\&theme=dracula\&langs_count=8\&hide_border=true)
+![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&layout=compact\&theme=swift\&langs_count=8\&hide_border=true#gh-light-mode-only)
+![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&layout=compact\&theme=dracula\&langs_count=8\&hide_border=true#gh-dark-mode-only)
 
 <hr>
 
