@@ -44,7 +44,7 @@
 `Y[YEAR]-[SUBJECT]`
 
 | Abbreviation | Definition |
-| :--------: | :-------: |
+| :-------- | :------- |
 | Y1 | 1st year of school |
 | YX | Spanning multiple years |
 | INSY | Information systems |
