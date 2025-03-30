@@ -46,7 +46,7 @@
 `Y4` -> Project work completed during the 1st year of school<br>
 `Y5` -> Project work completed during the 1st year of school
 
-`YX` -> School projects that span multiple years<br>
+###### `YX` -> School projects that span multiple years<br>
 `INSY` -> Informationssysteme (Information systems)<br>
 `MEDT` -> Medientechnik (Media technology)<br>
 `SEW` -> Softwareentwicklung (Software development)<br>
