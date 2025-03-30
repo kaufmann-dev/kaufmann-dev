@@ -40,7 +40,8 @@
 <hr>
 
 ### <samp>&gt; Repository Explanation</samp>
-###### School repositories have the prefix<br>`Y[YEAR]-[SUBJECT]`
+###### School repositories have the prefix<br>
+`Y[YEAR]-[SUBJECT]`
 
 | Abbreviation | Definition |
 | :--------: | :-------: |
