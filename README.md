@@ -43,6 +43,20 @@
 ###### Miscellaneous
 `Scrum` `Kanban` `CI/CD` `German (C2)` `English (C2)`
 
+### <samp>&gt; Respository explanation</samp>
+Y1 -> Project work completed during the 1st year of school
+Y2 -> Project work completed during the 1st year of school
+Y3 -> Project work completed during the 1st year of school
+Y4 -> Project work completed during the 1st year of school
+Y5 -> Project work completed during the 1st year of school
+YX -> School projects that span multiple years
+
+INSY -> Informationssysteme (Information systems)
+MEDT -> Medientechnik (Media technology)
+SEW -> Softwareentwicklung (Software development)
+THESIS -> Diplomarbeit (Thesis)
+KI -> Künstliche Intelligenz (Artificial intelligence)
+
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
