@@ -34,28 +34,22 @@
 ###### Databases
 `MySQL` `MariaDB` `Redis` `MongoDB` `MSSQL` `OracleRDBMS` `Neo4j` `PostgreSQL`
 
-###### Cloud
-`Azure` `GCP` `AWS` `Linux` `OpenShift` `OKD`
-
 ###### Tools
 `Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`
 
-###### Miscellaneous
-`Scrum` `Kanban` `CI/CD` `German (C2)` `English (C2)`
+### <samp>&gt; Repository Explanation</samp>
+`Y1` -> Project work completed during the 1st year of school
+`Y2` -> Project work completed during the 1st year of school
+`Y3` -> Project work completed during the 1st year of school
+`Y4` -> Project work completed during the 1st year of school
+`Y5` -> Project work completed during the 1st year of school
+`YX` -> School projects that span multiple years
 
-### <samp>&gt; Respository explanation</samp>
-Y1 -> Project work completed during the 1st year of school
-Y2 -> Project work completed during the 1st year of school
-Y3 -> Project work completed during the 1st year of school
-Y4 -> Project work completed during the 1st year of school
-Y5 -> Project work completed during the 1st year of school
-YX -> School projects that span multiple years
-
-INSY -> Informationssysteme (Information systems)
-MEDT -> Medientechnik (Media technology)
-SEW -> Softwareentwicklung (Software development)
-THESIS -> Diplomarbeit (Thesis)
-KI -> Künstliche Intelligenz (Artificial intelligence)
+`INSY` -> Informationssysteme (Information systems)
+`MEDT` -> Medientechnik (Media technology)
+`SEW` -> Softwareentwicklung (Software development)
+`THESIS` -> Diplomarbeit (Thesis)
+`KI` -> Künstliche Intelligenz (Artificial intelligence)
 
 </div>
 
