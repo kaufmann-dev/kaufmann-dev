@@ -38,8 +38,7 @@
 `Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`
 
 ### <samp>&gt; Repository Explanation</samp>
-`Y1` -> Project work completed during the 1st year of school
-
+`Y1` -> Project work completed during the 1st year of school<br>
 `Y2` -> Project work completed during the 1st year of school
 
 `Y3` -> Project work completed during the 1st year of school
