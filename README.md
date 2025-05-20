@@ -1,4 +1,4 @@
-<div align="center">
+<div>
         
 ###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://kaufmann.dev/">David Kaufmann</a></b></samp>
 
@@ -36,6 +36,8 @@
 
 ###### Tools
 `Jira` `Confluence` `NPM` `Git` `Docker` `Photoshop` `Illustrator` `XD`
+
+<hr>
 
 ### <samp>&gt; Repository Explanation</samp>
 `Y1` -> Project work completed during the 1st year of school<br>
