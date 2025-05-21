@@ -40,18 +40,18 @@
 <hr>
 
 ### <samp>&gt; Repository Explanation</samp>
-`Y1` -> Project work completed during the 1st year of school<br>
-`Y2` -> Project work completed during the 1st year of school<br>
-`Y3` -> Project work completed during the 1st year of school<br>
-`Y4` -> Project work completed during the 1st year of school<br>
-`Y5` -> Project work completed during the 1st year of school
+`Y1` -> 1st year of school<br>
+`Y2` -> 2nd year of school<br>
+`Y3` -> 3rd year of school<br>
+`Y4` -> 4th year of school<br>
+`Y5` -> 5th year of school<br>
+`YX` -> Spanning multiple school years
 
-###### `YX` -> School projects that span multiple years<br>
-`INSY` -> Informationssysteme (Information systems)<br>
-`MEDT` -> Medientechnik (Media technology)<br>
-`SEW` -> Softwareentwicklung (Software development)<br>
-`THESIS` -> Diplomarbeit (Thesis)<br>
-`KI` -> Künstliche Intelligenz (Artificial intelligence)
+`INSY` -> Information systems<br>
+`MEDT` -> Media technology<br>
+`SEW` -> Software development<br>
+`THESIS` -> Thesis<br>
+`KI` -> Artificial intelligence
 
 </div>
 
