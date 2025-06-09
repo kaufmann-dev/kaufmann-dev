@@ -41,7 +41,7 @@
 
 ### <samp>&gt; Repository Explanation</samp>
 Repositories that are part of my school work have a prefix: `Y[YEAR]-[SUBJECT]`
-<small>
+
 `Y1` -> 1st year of school<br>
 `Y2` -> 2nd year of school<br>
 `Y3` -> 3rd year of school<br>
@@ -49,12 +49,11 @@ Repositories that are part of my school work have a prefix: `Y[YEAR]-[SUBJECT]`
 `Y5` -> 5th year of school<br>
 `YX` -> Spanning multiple school years
 
-`INSY` -> Information systems<br>
+`INSY` `` ``-> Information systems<br>
 `MEDT` -> Media technology<br>
-`SEW` -> Software development<br>
+`SEW`  ``  ``-> Software development<br>
 `THESIS` -> Thesis<br>
-`KI` -> Artificial intelligence
-</small>
+`KI`  ``   ``-> Artificial intelligence
 </div>
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
