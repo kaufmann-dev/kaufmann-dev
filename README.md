@@ -42,8 +42,8 @@
 ### <samp>&gt; Repository Explanation</samp>
 Repositories that are part of my school work have a prefix: `Y[YEAR]-[SUBJECT]`
 
-`Y1` 1st year of school<br>
-`Y2` -> 2nd year of school<br>
+`Y1`: 1st year of school<br>
+`Y2` 2nd year of school<br>
 `Y3` -> 3rd year of school<br>
 `Y4` -> 4th year of school<br>
 `Y5` -> 5th year of school<br>
