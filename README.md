@@ -42,6 +42,12 @@
 ### <samp>&gt; Repository Explanation</samp>
 Repositories that are part of my school work have a prefix: `Y[YEAR]-[SUBJECT]`
 
+| Abbreviation | Meaning |
+| -------- | ------- |
+| Y1 | 1st year of school |
+| Y2 | 2nd year of school |
+| INSY | Information systems |
+
 `Y1` 1st year of school<br>
 `Y2` 2nd year of school<br>
 `Y3` 3rd year of school<br>
