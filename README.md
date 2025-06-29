@@ -1,4 +1,4 @@
-<div>
+<div align="center">
         
 ###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://kaufmann.dev/">David Kaufmann</a></b></samp>
 
@@ -40,7 +40,7 @@
 <hr>
 
 ### <samp>&gt; Repository Explanation</samp>
-Repositories that are part of my school work have a prefix: `Y[YEAR]-[SUBJECT]`
+School repositories have the prefix `Y[YEAR]-[SUBJECT]`
 
 | Abbreviation | Definition |
 | -------- | ------- |
