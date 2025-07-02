@@ -45,7 +45,7 @@ School repositories have the prefix `Y[YEAR]-[SUBJECT]`
 | Abbreviation | Definition |
 | :--------: | :-------: |
 | Y1 | 1st year of school |
-| YX | Spanning multiple school years |
+| YX | Spanning multiple years |
 | INSY | Information systems |
 | MEDT | Media technology |
 | SEW | Software development |
