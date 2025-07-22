@@ -51,6 +51,7 @@
 | MEDT | Media technology |
 | SEW | Software development |
 | KI | Artificial intelligence |
+| ITP | IT Projects |
 
 </div>
 
