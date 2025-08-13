@@ -42,7 +42,7 @@
 ### <samp>&gt; Repository Explanation</samp>
 ###### My school repositories have a prefix:
 `Y[YEAR]-[SUBJECT]`
-<div style="margin-top: 10px;">
+<div style="height: 10px;"></div>
 | Abbreviation | Definition |
 | :-------- | :------- |
 | Y1 | 1st year of school |
@@ -52,7 +52,7 @@
 | SEW | Software development |
 | KI | Artificial intelligence |
 | ITP | IT Projects |
-</div>
+
 </div>
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
