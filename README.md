@@ -43,8 +43,6 @@
 ###### My school repositories have a prefix:
 `Y[YEAR]-[SUBJECT]`
 
-<div style="height: 10px;"></div>
-
 | Abbreviation | Definition |
 | :-------- | :------- |
 | Y1 | 1st year of school |
