@@ -2,8 +2,8 @@
         
 ###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://kaufmann.dev/">David Kaufmann</a></b></samp>
 
-[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=kaufmann-dev&theme=swift#gh-light-mode-only&include_all_commits=true\&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=kaufmann-dev&theme=dracula#gh-dark-mode-only&include_all_commits=true\&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=kaufmann-dev&theme=swift&include_all_commits=true\&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=kaufmann-dev&theme=dracula&include_all_commits=true\&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <hr>
 
