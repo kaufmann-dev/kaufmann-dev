@@ -5,6 +5,11 @@
 [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=kaufmann-dev&theme=swift&include_all_commits=true\&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=kaufmann-dev&theme=dracula&include_all_commits=true\&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&layout=compact\&theme=swift)](https://github.com/kaufmann-dev/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&layout=compact\&theme=dracula)](https://github.com/kaufmann-dev/github-readme-stats#gh-dark-mode-only)
+
 <hr>
 
 ### <samp>&gt; Favorite Projects</samp>
