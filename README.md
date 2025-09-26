@@ -1,7 +1,9 @@
 <div align="center">
         
 ###  <samp>&gt; Hey There!, I'm <b><a target="_blank" href="https://kaufmann.dev/">David Kaufmann</a></b></samp>
+
 <br>
+
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&theme=swift\&layout=compact\&langs_count=8\&hide_border=true)](https://github.com/kaufmann-dev#gh-light-mode-only)
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kaufmann-dev\&theme=dracula\&layout=compact\&langs_count=8\&hide_border=true)](https://github.com/kaufmann-dev#gh-dark-mode-only)
 
@@ -24,6 +26,8 @@
 <hr>
 
 ### <samp>&gt; Skills</samp>
+
+<br>
 
 ###### Computer Languages
 `C#` `Java` `Rust` `PHP` `Python` `Bash` `JavaScript` `SQL` `MQL` `Cypher` `XSLT`
