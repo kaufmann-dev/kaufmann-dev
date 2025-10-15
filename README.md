@@ -7,7 +7,7 @@
 
 <hr>
 
-### <samp>&gt; Favorite Projects</samp><br>
+### <samp>&gt; Favorite Projects</samp><br><br>
 
 [![Purus CSS-Light](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=swift&hide_border=true)](https://github.com/kaufmann-dev/PurusCss#gh-light-mode-only)
 [![Purus CSS-Dark](https://github-readme-stats.vercel.app/api/pin/?username=kaufmann-dev&repo=PurusCss&theme=dracula&hide_border=true)](https://github.com/kaufmann-dev/PurusCss#gh-dark-mode-only)
