@@ -17,12 +17,12 @@
 <hr>
 
 ### <samp>&gt; Repository Explanation</samp>
-###### My school repositories have a prefix:
+###### Some of my repositories have a prefix:
 `Y[YEAR]-[SUBJECT]`
 
 | Abbreviation | Definition |
 | :-------- | :------- |
-| Y1 | 1st year of school |
+| Y[1|2|3|4|5] | Year [1|2|3|4|5] of HTL |
 | YX | Spanning multiple years |
 | INSY | Information systems |
 | MEDT | Media technology |
