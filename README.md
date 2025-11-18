@@ -22,7 +22,7 @@
 
 | Abbreviation | Definition |
 | :-------- | :------- |
-| Y`[1|2|3|4|5]` | Year `[1|2|3|4|5]` of HTL |
+| Y[1\|2\|3\|4\|5] | Year [1\|2\|3\|4\|5] of HTL |
 | YX | Spanning multiple years |
 | INSY | Information systems |
 | MEDT | Media technology |
