@@ -7,16 +7,16 @@ So to make it easier for you (and for myself), here are the ones I like the most
 
 ## Class I – My absolute favorites / most proud of
 
-- **[your-username/awesome-project](https://github.com/your-username/awesome-project)**  
+- **[jung-in-krems]([https://github.com/your-username/awesome-project](https://github.com/kaufmann-dev/JungInKrems))**  
   The one I'm currently most excited about • core technology XYZ
 
-- **[your-username/ai-image-tool](https://github.com/your-username/ai-image-tool)**  
+- **[async-movie-explorer](https://github.com/kaufmann-dev/MoviesAsync)**  
   My best attempt at making something actually useful with diffusion models
 
-- **[your-username/dotfiles](https://github.com/your-username/dotfiles)**  
+- **[repository-manipulator](https://github.com/kaufmann-dev/RepoManip)**  
   My battle-tested setup (nvim + tmux + fish + arch linux rice 🧀)
 
-- **[your-username/game-engine-from-scratch](https://github.com/your-username/game-engine-from-scratch)**  
+- **[purus-css](https://github.com/kaufmann-dev/PurusCss)**  
   Learning project that got way out of hand (in a good way)
 
 ## Class II – Still pretty cool / would recommend checking out
