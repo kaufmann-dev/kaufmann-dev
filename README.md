@@ -7,7 +7,7 @@ So to make it easier for you (and for myself), here are the ones I like the most
 
 ## Class I – My absolute favorites / most proud of
 
-- **[jung-in-krems](https://github.com/kaufmann-dev/JungInKrems)**
+- **[jung-in-krems](https://github.com/kaufmann-dev/JungInKrems)**  
   Event calendar and an overview of educational offerings for young people in Krems
 
 - **[async-movie-explorer](https://github.com/kaufmann-dev/MoviesAsync)**  
@@ -15,6 +15,7 @@ So to make it easier for you (and for myself), here are the ones I like the most
 
 - **[repository-manipulator](https://github.com/kaufmann-dev/RepoManip)**  
   Bash scripts for the bulk management and manipulation of Git repositories
+  
   Automates tasks like licensing, cloning and rewriting commit history
 
 - **[purus-css](https://github.com/kaufmann-dev/PurusCss)**  
