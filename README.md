@@ -15,8 +15,6 @@ So to make it easier for you (and for myself), here are the ones I like the most
 
 - **[repository-manipulator](https://github.com/kaufmann-dev/RepoManip)**  
   Bash scripts for the bulk management and manipulation of Git repositories
-  
-  Automates tasks like licensing, cloning and rewriting commit history
 
 - **[purus-css](https://github.com/kaufmann-dev/PurusCss)**  
   Responsive CSS drop-in framework with no JavaScript dependencies
