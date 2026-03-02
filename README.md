@@ -3,11 +3,12 @@
 Real human bean living in **Vienna, Austria**.
 
 ### Check out my stuff:
-- **Personal website** → [https://kaufmann.dev](https://kaufmann.dev/)
+- **Website** → [https://kaufmann.dev](https://kaufmann.dev/)
 - **LinkedIn** → [https://www.linkedin.com/in/kaufmann-dev/](https://www.linkedin.com/in/kaufmann-dev/)
 
-You can reach me anytime at **david@kaufmann.dev**
+Reach me anytime at **david@kaufmann.dev**
 
----
+# Hi, I'm David 👋
+Real human bean living in **Vienna, Austria**
 
-*Thanks for stopping by! ✨*
+[kaufmann.dev](https://kaufmann.dev) · [LinkedIn](https://www.linkedin.com/in/kaufmann-dev/) · david@kaufmann.dev
